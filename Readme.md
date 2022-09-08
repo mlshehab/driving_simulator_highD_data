@@ -1,6 +1,6 @@
 ## 2D Driving Simulator Based On HighD Dataset
 
-In this project, we implement a 2D car simulation which is based on real world data. We fetch the driving scenarios from the [HighD](https://www.highd-dataset.com/) dataset. The dataset is proprietory so users should ask for access from the website. The user is given manual control to drive one of the vehicles in  a `pygame` engine.
+In this project, we implement a 2D car simulation which is based on real world data. We fetch the driving scenarios from the [HighD](https://www.highd-dataset.com/) dataset. The dataset is proprietary so users should ask for access from the website. The user is given manual control to drive one of the vehicles in  a `pygame` engine.
 
 <img src="imgs/simulator.PNG" width="830">
 
